@@ -34,26 +34,6 @@ InventoryManagement/
 
 ---
 
-## ?? Installation & Setup
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/yourusername/InventoryManagement.git
-   ```
-2. **Navigate to the Project Folder**
-   ```sh
-   cd InventoryManagement
-   ```
-3. **Compile the Code**
-   ```sh
-   g++ main.cpp App.cpp Inventory.cpp Product.cpp -o InventoryApp
-   ```
-4. **Run the Application**
-   ```sh
-   ./InventoryApp
-   ```
-
----
-
 ## ?? Usage Guide
 1?? **Start the program**
    - Runs the menu-driven system.
@@ -123,7 +103,7 @@ Feel free to **fork this repository**, make improvements, and submit a **pull re
 
 
 ## ?? Contact
-For any questions or suggestions, contact **[Sachin Bidwai]** at **sachinbidwai1982@gmail.com**
+For any questions or suggestions, contact **Sachin Bidwai** at **sachinbidwai1982@gmail.com**
 
 ---
 
